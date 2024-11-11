@@ -1,6 +1,8 @@
 # EcharHoras
 
 **EcharHoras** es una aplicación sencilla en Python para registrar y gestionar tus horas de trabajo. Utiliza Tkinter para la interfaz gráfica y SQLite para almacenar los datos, permitiéndote llevar un control eficiente de tus entradas, salidas y horas extra acumuladas.
+![image](https://github.com/user-attachments/assets/721c7b69-d3d2-4586-b5ef-f8b947b93da7)
+
 
 ## Características
 
