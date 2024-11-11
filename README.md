@@ -12,7 +12,6 @@
 - **Gestión de Horas Extra:** Controla las horas extra acumuladas, tanto positivas como negativas.
 - **Reinicio de Acumulado:** Reinicia el contador de horas extra a partir de una semana específica.
 - **Interfaz Intuitiva:** Fácil de usar gracias a su diseño sencillo.
-- **Generación de Ejecutable:** Crea un archivo ejecutable para usar la aplicación sin necesidad de Python.
 
 ## Instalación
 
